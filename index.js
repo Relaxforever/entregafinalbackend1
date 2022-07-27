@@ -15,7 +15,7 @@ app.use("/api/productos", productRoute );
 app.use("/api/carrito", cartRoute);
 
 app.get("/", (req, res) => {
-    res.send('Los puertos que funcionan son /productos o /productosRandom')
+    res.send('Los puertos que funcionan son /api/productos y api/carrito')
 })
 
 
