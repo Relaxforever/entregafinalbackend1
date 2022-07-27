@@ -1,0 +1,1 @@
+[{"id":1,"timestamp":1658887641393,"productos":[{"nombre":"Qr al por mayor","descripcion":"La mano de Dios.","precio":39.85,"foto":"https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/qr-code-sharp-128.png","stock":6,"timestamp":1658887599501,"id":6}]},{"id":3,"timestamp":1658887743991,"productos":[]}]
